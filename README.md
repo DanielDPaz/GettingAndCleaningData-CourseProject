@@ -1,4 +1,3 @@
-============================================
 Coursera - Getting and Cleaning Data Project 
 Submission by Daniel Paz, August 17, 2019
 ============================================
